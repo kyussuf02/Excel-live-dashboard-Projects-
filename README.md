@@ -44,4 +44,4 @@ Channel & Order Priority: Orders are primarily driven through the online channel
 Global Distribution: The dashboard includes a world map, highlighting key sales and profit regions.
 Shipping Days: Average shipping days highlight performance in logistics, an important factor for operational improvements.
 
-Project 4 - 
+
